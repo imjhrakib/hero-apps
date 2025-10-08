@@ -3,7 +3,7 @@ import React from 'react';
 const Reviews = () => {
   return (
     <div className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white py-15">
-      <h1 className='text-3xl font-bold'>Trusted by Millions, Built for You</h1>
+      <h1 className='text-3xl text-center font-bold'>Trusted by Millions, Built for You</h1>
       <div className='mt-5 flex flex-col justify-center md:flex-row gap-4 md:gap-20'>
         <div className='text-center'>
           <h5 className='mb-2 text-[12px]'>Total Downloads</h5>

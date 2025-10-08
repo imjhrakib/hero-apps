@@ -3,6 +3,7 @@ import playStore from '../../assets/playStor.png'
 import apple from '../../assets/apple.png'
 import heroImg from '../../assets/hero.png'
 import Reviews from './Reviews';
+import TrendingApps from '../TrendingApps/TrendingApps';
 const HeroSection = () => {
   return (
     <div className='mt-20 text-center'>
@@ -18,8 +19,7 @@ const HeroSection = () => {
           <img src={apple} alt="" className='h-4 md:h-8 mr-2' />
           App Store</button></a>
       </div>
-      <img src={heroImg} alt="" className='mx-auto px-20' />
-      <Reviews></Reviews>
+      <img src={heroImg} alt="" className='mx-auto px-20' />      
     </div>
   );
 };

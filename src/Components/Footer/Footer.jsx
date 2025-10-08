@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
           <a className="btn btn-ghost text-xl">
           <img src={logo} alt="logo" width={40} height={40} />
-          <h1 class="text-xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
+          <h1 className="text-xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
             HERO.IO
           </h1>
         </a>

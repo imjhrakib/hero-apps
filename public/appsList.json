@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "TaskFlow",
+    "companyName": "Nova Labs",
+    "id": 1,
+    "description": "A smart to-do app designed to keep you focused and productive every day.",
+    "size": 45,
+    "reviews": 2300,
+    "ratingAvg": 4.7,
+    "downloads": "120M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "FinTrack",
+    "companyName": "SmartByte",
+    "id": 2,
+    "description": "Track expenses, manage budgets, and visualize your financial goals easily.",
+    "size": 52,
+    "reviews": 4100,
+    "ratingAvg": 4.5,
+    "downloads": "300M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "FitPulse",
+    "companyName": "HealthX",
+    "id": 3,
+    "description": "Personal fitness trainer app that tracks workouts, calories, and goals.",
+    "size": 68,
+    "reviews": 5500,
+    "ratingAvg": 4.8,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3920 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "PhotoMatic",
+    "companyName": "PixelArts",
+    "id": 4,
+    "description": "Edit, filter, and enhance photos with AI-powered tools instantly.",
+    "size": 95,
+    "reviews": 8800,
+    "ratingAvg": 4.6,
+    "downloads": "750M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "MindEase",
+    "companyName": "CalmSoft",
+    "id": 5,
+    "description": "Meditation and stress-relief app that helps you stay calm and focused.",
+    "size": 38,
+    "reviews": 3200,
+    "ratingAvg": 4.9,
+    "downloads": "180M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 2620 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "StudyNest",
+    "companyName": "LearnSphere",
+    "id": 6,
+    "description": "AI-powered study planner that adapts to your learning speed and goals.",
+    "size": 55,
+    "reviews": 2500,
+    "ratingAvg": 4.4,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1180 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "NoteMate",
+    "companyName": "CloudNote",
+    "id": 7,
+    "description": "Smart note-taking app with voice-to-text and cloud syncing.",
+    "size": 42,
+    "reviews": 3600,
+    "ratingAvg": 4.3,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1850 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Cookify",
+    "companyName": "TasteLab",
+    "id": 8,
+    "description": "Discover new recipes, manage grocery lists, and share your cooking creations.",
+    "size": 61,
+    "reviews": 4200,
+    "ratingAvg": 4.7,
+    "downloads": "250M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2340 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "ChatWise",
+    "companyName": "TalkTech",
+    "id": 9,
+    "description": "Fast and secure chat app with AI message suggestions.",
+    "size": 70,
+    "reviews": 7800,
+    "ratingAvg": 4.8,
+    "downloads": "600M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Workify",
+    "companyName": "ProdCorp",
+    "id": 10,
+    "description": "Boost productivity with project boards, task tracking, and reminders.",
+    "size": 64,
+    "reviews": 3400,
+    "ratingAvg": 4.5,
+    "downloads": "230M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Newsly",
+    "companyName": "InfoNova",
+    "id": 11,
+    "description": "Personalized news feed powered by AI and real-time updates.",
+    "size": 48,
+    "reviews": 5000,
+    "ratingAvg": 4.6,
+    "downloads": "400M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Travelog",
+    "companyName": "TripMates",
+    "id": 12,
+    "description": "Plan trips, discover destinations, and share travel journals easily.",
+    "size": 75,
+    "reviews": 4700,
+    "ratingAvg": 4.5,
+    "downloads": "350M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "ShopSmart",
+    "companyName": "BuyNow Tech",
+    "id": 13,
+    "description": "Find discounts, compare products, and get AI-based recommendations.",
+    "size": 82,
+    "reviews": 5600,
+    "ratingAvg": 4.3,
+    "downloads": "450M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "GameZone",
+    "companyName": "PlayX",
+    "id": 14,
+    "description": "Discover, play, and compete in trending mobile games globally.",
+    "size": 95,
+    "reviews": 9800,
+    "ratingAvg": 4.9,
+    "downloads": "900M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Weatherly",
+    "companyName": "SkyTech",
+    "id": 15,
+    "description": "Real-time weather updates and forecasts with stunning visuals.",
+    "size": 50,
+    "reviews": 3100,
+    "ratingAvg": 4.4,
+    "downloads": "180M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Readify",
+    "companyName": "BookLabs",
+    "id": 16,
+    "description": "Personal reading assistant that summarizes and recommends books.",
+    "size": 62,
+    "reviews": 4200,
+    "ratingAvg": 4.7,
+    "downloads": "280M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2750 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Langify",
+    "companyName": "LinguaTech",
+    "id": 17,
+    "description": "Language learning app that adapts to your style and speed.",
+    "size": 70,
+    "reviews": 3500,
+    "ratingAvg": 4.6,
+    "downloads": "240M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 2220 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Moodify",
+    "companyName": "FeelGood Labs",
+    "id": 18,
+    "description": "AI mood tracker that helps you reflect, relax, and grow emotionally.",
+    "size": 48,
+    "reviews": 4100,
+    "ratingAvg": 4.8,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 3170 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "CleanUp",
+    "companyName": "SystemPro",
+    "id": 19,
+    "description": "Keep your phone fast and organized with smart cleanup tools.",
+    "size": 35,
+    "reviews": 2800,
+    "ratingAvg": 4.5,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1580 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "title": "Musicly",
+    "companyName": "BeatBox Inc",
+    "id": 20,
+    "description": "Stream, download, and share your favorite music tracks anytime.",
+    "size": 90,
+    "reviews": 9600,
+    "ratingAvg": 4.9,
+    "downloads": "950M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  }
+]
