@@ -4,6 +4,7 @@ import Reviews from '../../Components/HeroSection/Reviews';
 import TrendingApps from '../../Components/TrendingApps/TrendingApps';
 import AllAppsList from '../AllAppsList/AllAppsList';
 import { Link } from 'react-router';
+import AppDetails from '../AllAppsList/AppDetails';
 
 const HomePage = () => {
   return (

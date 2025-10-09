@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/sdYYjtRM/demo-app1.webp",
     "title": "TaskFlow",
     "companyName": "Nova Labs",
     "id": 1,
@@ -10,15 +10,30 @@
     "ratingAvg": 4.7,
     "downloads": "120M",
     "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1400 }
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 60
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 600
+      },
+      {
+        "name": "5 star",
+        "count": 1400
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/n8mqwDBk/demo-app2.webp",
     "title": "FinTrack",
     "companyName": "SmartByte",
     "id": 2,
@@ -28,15 +43,30 @@
     "ratingAvg": 4.5,
     "downloads": "300M",
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 230 },
-      { "name": "3 star", "count": 420 },
-      { "name": "4 star", "count": 1000 },
-      { "name": "5 star", "count": 2300 }
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 230
+      },
+      {
+        "name": "3 star",
+        "count": 420
+      },
+      {
+        "name": "4 star",
+        "count": 1000
+      },
+      {
+        "name": "5 star",
+        "count": 2300
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/PZM3v8Cy/demo-app3.webp",
     "title": "FitPulse",
     "companyName": "HealthX",
     "id": 3,
@@ -46,15 +76,30 @@
     "ratingAvg": 4.8,
     "downloads": "500M",
     "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 1100 },
-      { "name": "5 star", "count": 3920 }
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 1100
+      },
+      {
+        "name": "5 star",
+        "count": 3920
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/wF2RQphM/demo-app4.webp",
     "title": "PhotoMatic",
     "companyName": "PixelArts",
     "id": 4,
@@ -64,15 +109,30 @@
     "ratingAvg": 4.6,
     "downloads": "750M",
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 450 },
-      { "name": "3 star", "count": 700 },
-      { "name": "4 star", "count": 2300 },
-      { "name": "5 star", "count": 5050 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 450
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 2300
+      },
+      {
+        "name": "5 star",
+        "count": 5050
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/S4LvvFbh/demo-app5.webp",
     "title": "MindEase",
     "companyName": "CalmSoft",
     "id": 5,
@@ -82,15 +142,30 @@
     "ratingAvg": 4.9,
     "downloads": "180M",
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 2620 }
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 2620
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/dwnvyk4J/demo-app6.webp",
     "title": "StudyNest",
     "companyName": "LearnSphere",
     "id": 6,
@@ -100,15 +175,30 @@
     "ratingAvg": 4.4,
     "downloads": "150M",
     "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 800 },
-      { "name": "5 star", "count": 1180 }
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 140
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 1180
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/sdYYjtRM/demo-app1.webp",
     "title": "NoteMate",
     "companyName": "CloudNote",
     "id": 7,
@@ -118,15 +208,30 @@
     "ratingAvg": 4.3,
     "downloads": "200M",
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 1000 },
-      { "name": "5 star", "count": 1850 }
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1000
+      },
+      {
+        "name": "5 star",
+        "count": 1850
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/n8mqwDBk/demo-app2.webp",
     "title": "Cookify",
     "companyName": "TasteLab",
     "id": 8,
@@ -136,15 +241,30 @@
     "ratingAvg": 4.7,
     "downloads": "250M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 160 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 1200 },
-      { "name": "5 star", "count": 2340 }
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 160
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1200
+      },
+      {
+        "name": "5 star",
+        "count": 2340
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/PZM3v8Cy/demo-app3.webp",
     "title": "ChatWise",
     "companyName": "TalkTech",
     "id": 9,
@@ -154,15 +274,30 @@
     "ratingAvg": 4.8,
     "downloads": "600M",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 500 },
-      { "name": "4 star", "count": 1500 },
-      { "name": "5 star", "count": 5300 }
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 500
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 5300
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/wF2RQphM/demo-app4.webp",
     "title": "Workify",
     "companyName": "ProdCorp",
     "id": 10,
@@ -172,15 +307,30 @@
     "ratingAvg": 4.5,
     "downloads": "230M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 900 },
-      { "name": "5 star", "count": 1800 }
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 1800
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/S4LvvFbh/demo-app5.webp",
     "title": "Newsly",
     "companyName": "InfoNova",
     "id": 11,
@@ -190,15 +340,30 @@
     "ratingAvg": 4.6,
     "downloads": "400M",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 500 },
-      { "name": "4 star", "count": 1200 },
-      { "name": "5 star", "count": 2800 }
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 500
+      },
+      {
+        "name": "4 star",
+        "count": 1200
+      },
+      {
+        "name": "5 star",
+        "count": 2800
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/dwnvyk4J/demo-app6.webp",
     "title": "Travelog",
     "companyName": "TripMates",
     "id": 12,
@@ -208,15 +373,30 @@
     "ratingAvg": 4.5,
     "downloads": "350M",
     "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 180 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 1000 },
-      { "name": "5 star", "count": 3000 }
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1000
+      },
+      {
+        "name": "5 star",
+        "count": 3000
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/sdYYjtRM/demo-app1.webp",
     "title": "ShopSmart",
     "companyName": "BuyNow Tech",
     "id": 13,
@@ -226,15 +406,30 @@
     "ratingAvg": 4.3,
     "downloads": "450M",
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 400 },
-      { "name": "3 star", "count": 700 },
-      { "name": "4 star", "count": 1300 },
-      { "name": "5 star", "count": 2900 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 1300
+      },
+      {
+        "name": "5 star",
+        "count": 2900
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/n8mqwDBk/demo-app2.webp",
     "title": "GameZone",
     "companyName": "PlayX",
     "id": 14,
@@ -244,15 +439,30 @@
     "ratingAvg": 4.9,
     "downloads": "900M",
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 400 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2500 },
-      { "name": "5 star", "count": 5800 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 5800
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/PZM3v8Cy/demo-app3.webp",
     "title": "Weatherly",
     "companyName": "SkyTech",
     "id": 15,
@@ -262,15 +472,30 @@
     "ratingAvg": 4.4,
     "downloads": "180M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 800 },
-      { "name": "5 star", "count": 1700 }
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 1700
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/wF2RQphM/demo-app4.webp",
     "title": "Readify",
     "companyName": "BookLabs",
     "id": 16,
@@ -280,15 +505,30 @@
     "ratingAvg": 4.7,
     "downloads": "280M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 900 },
-      { "name": "5 star", "count": 2750 }
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 2750
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/S4LvvFbh/demo-app5.webp",
     "title": "Langify",
     "companyName": "LinguaTech",
     "id": 17,
@@ -298,15 +538,30 @@
     "ratingAvg": 4.6,
     "downloads": "240M",
     "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 800 },
-      { "name": "5 star", "count": 2220 }
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 2220
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/dwnvyk4J/demo-app6.webp",
     "title": "Moodify",
     "companyName": "FeelGood Labs",
     "id": 18,
@@ -316,15 +571,30 @@
     "ratingAvg": 4.8,
     "downloads": "200M",
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 3170 }
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 80
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 600
+      },
+      {
+        "name": "5 star",
+        "count": 3170
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/sdYYjtRM/demo-app1.webp",
     "title": "CleanUp",
     "companyName": "SystemPro",
     "id": 19,
@@ -334,15 +604,30 @@
     "ratingAvg": 4.5,
     "downloads": "150M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 700 },
-      { "name": "5 star", "count": 1580 }
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 700
+      },
+      {
+        "name": "5 star",
+        "count": 1580
+      }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5",
+    "image": "https://i.ibb.co.com/n8mqwDBk/demo-app2.webp",
     "title": "Musicly",
     "companyName": "BeatBox Inc",
     "id": 20,
@@ -352,11 +637,26 @@
     "ratingAvg": 4.9,
     "downloads": "950M",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 6400 }
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 2100
+      },
+      {
+        "name": "5 star",
+        "count": 6400
+      }
     ]
   }
 ]

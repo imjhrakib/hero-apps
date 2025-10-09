@@ -7,9 +7,7 @@ const Root = () => {
 
   return (
     <div>
-      <Outlet></Outlet>
-       {/* <HomePage></HomePage>
-       <AllAppsList></AllAppsList> */}
+      <Outlet></Outlet>    
     </div>
   );
 };
