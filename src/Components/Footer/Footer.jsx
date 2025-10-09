@@ -22,6 +22,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <hr className='border-gray-600 mx-40 mt-4'/>
       <div className='text-[#FAFAFA] text-center mt-5'>
         <p>Copyright © 2025 - All right reserved</p>
       </div>
