@@ -8,8 +8,8 @@ const TrendingAppsCardSection = () => {
   return (
     <div className='mx-auto px-5 grid grid-cols-2 md:grid-cols-4 gap-4'>
       {
-        apps.slice(0,8).map((app) => (
-          <div className="card bg-base-100 shadow-sm p-3">
+        apps.slice(0,8).map((app,index) => (
+          <div key={index} className="card bg-base-100 shadow-sm p-3">
             <figure>
               <img
                 src={app.image}
@@ -27,7 +27,8 @@ const TrendingAppsCardSection = () => {
                 <div className="badge badge-outline text-xl py-4 text-[#FF8811] bg-[#FFF0E1] border-none">
                   <img src={star} width={20} alt="" />
                   <span>{
-                  app.ratings[0].name}</span>
+                    app.ratingAvg
+                  }</span>
                 </div>
               </div>
             </div>

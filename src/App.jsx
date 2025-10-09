@@ -1,24 +1,24 @@
-import axios from 'axios'
 import './App.css'
 import Footer from './Components/Footer/Footer'
 import Navbar from './Components/Header/Navbar'
-import HeroSection from './Components/HeroSection/HeroSection'
-import HomePage from './pages/HomePage/HomePage'
+import Root from './pages/Root/Root'
 import { createContext, useEffect, useState } from 'react'
+import axios from 'axios'
 
+// eslint-disable-next-line react-refresh/only-export-components
 export const AppContext = createContext([])
-
 function App() {
-  const [apps,setApps] = useState([])
-  useEffect(()=>{
-    axios.get('appsList.json').then(res=>setApps(res.data))
-  },[])
-   
+    useEffect(() => {
+    axios.get('appsList.json').then(res => setApps(res.data))
+  }, [])
+
+  const [apps, setApps] = useState([])
+  
   return (
     <>            
-      <Navbar></Navbar>
+      <Navbar></Navbar>      
       <AppContext value={apps}>
-        <HomePage></HomePage>
+        <Root></Root>
       </AppContext>
       <Footer></Footer>
     </>
