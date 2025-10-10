@@ -24,6 +24,7 @@ const AppDetails = () => {
   const { id } = useParams()
   const app = apps.find(a => a.id === parseInt(id));
   if (!app) return <AppError></AppError>
+  
   const [installedApps, setInstalledApps] = useState(() => {
     const saved = localStorage.getItem("installedApps");
     return saved ? JSON.parse(saved) : [];

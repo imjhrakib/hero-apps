@@ -1,11 +1,15 @@
-import React, { useContext } from 'react';
+import React, { useContext, useState } from 'react';
 import download from '../../assets/icon-downloads.png'
 import star from '../../assets/icon-ratings.png'
 import { AppContext } from '../../App';
 import { Link } from 'react-router';
 const AllAppsList = () => {
   const apps = useContext(AppContext)
+  const [searchText, setSearchText] = useState('')
 
+  const filteredApps = apps.filter(app =>
+    app.title.toLowerCase().includes(searchText.toLowerCase())
+  )
   return (
     <div>
       <div className='text-center my-8'>
@@ -13,12 +17,12 @@ const AllAppsList = () => {
         <p className='text-[#627382]'>Explore All Apps on the Market developed by us. We code for Millions</p>
       </div>
       <div className='flex justify-between px-8'>
-        <h4>({apps.length}) Apps Found</h4>
-        <input type="search" name="search" id="" placeholder='search apps' className='border border-gray-400 p-1 pl-3' />
+        <h4>({filteredApps.length}) Apps Found</h4>
+        <input type="search" name="search" id="" placeholder='search apps' className='border border-gray-400 p-1 pl-3' value={searchText} onChange={e => setSearchText(e.target.value)} />
       </div>
       <div className='mx-auto px-5 grid grid-cols-2 md:grid-cols-4 gap-4 mb-10'>
         {
-          apps.map((app, index) => (
+          filteredApps.map((app, index) => (
             <Link to={`/appDetails/${app.id}`} key={index}>
               <div className="card bg-base-100 shadow-sm p-3">
                 <figure>
