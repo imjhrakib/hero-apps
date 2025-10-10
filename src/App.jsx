@@ -8,18 +8,18 @@ import axios from 'axios'
 // eslint-disable-next-line react-refresh/only-export-components
 export const AppContext = createContext([])
 function App() {
-    useEffect(() => {
+  useEffect(() => {
     axios.get('appsList.json').then(res => setApps(res.data))
   }, [])
 
   const [apps, setApps] = useState([])
-  
+
   return (
-    <>            
-      <Navbar></Navbar>      
-      <AppContext value={apps}>
-        <Root></Root>
-      </AppContext>
+    <>
+      <Navbar></Navbar>
+      <AppContext.Provider value={apps}>
+        <Root />
+      </AppContext.Provider>
       <Footer></Footer>
     </>
   )
