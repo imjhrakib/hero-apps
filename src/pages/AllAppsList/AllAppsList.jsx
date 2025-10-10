@@ -10,6 +10,7 @@ const AllAppsList = () => {
   const filteredApps = apps.filter(app =>
     app.title.toLowerCase().includes(searchText.toLowerCase())
   )
+  
   return (
     <div>
       <div className='text-center my-8'>
