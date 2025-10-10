@@ -12,8 +12,8 @@ export const router = createBrowserRouter([
     Component: App,
     children: [
       { index: true, Component: HomePage },
-      { path: 'AllAppList', Component: AllAppsList },
-      { path: 'InstalledApps', Component: InstalledApps },
+      { path: '/AllAppList', Component: AllAppsList },
+      { path: '/InstalledApps', Component: InstalledApps },
       { path: 'appDetails/:id', Component: AppDetails },
       { path: '*', Component: AppError }
     ],

@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../../assets/logo.png'
 import { GitBranchPlus, Github } from 'lucide-react';
-import { Link } from 'react-router';
+import { NavLink } from 'react-router';
 
 
 const Navbar = () => {
@@ -16,12 +16,29 @@ const Navbar = () => {
             tabIndex={0}
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
             <li>
-              <a href="/">Home</a>
-              </li>
-            <li>
-              <a href='AllAppList'>Apps</a>
+              <NavLink to="/"
+                className={({ isActive }) =>
+                  isActive ? "text-[#632EE3] font-semibold underline underline-offset-4" : ""
+                }>
+                Home
+              </NavLink>
             </li>
-            <li><a href='InstalledApps'>Installation</a></li>
+            <li>
+              <NavLink to="/AllAppList"
+                className={({ isActive }) =>
+                  isActive ? "text-[#632EE3] font-semibold underline underline-offset-4" : ""
+                }>
+                Apps
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/InstalledApps"
+                className={({ isActive }) =>
+                  isActive ? "text-[#632EE3] font-semibold underline underline-offset-4" : ""
+                }>
+                Installation
+              </NavLink>
+            </li>
           </ul>
         </div>
         <a className="btn btn-ghost text-xl">
@@ -33,9 +50,30 @@ const Navbar = () => {
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
-          <li><a href="/">Home</a></li>
-          <li><a href='AllAppList'>Apps</a></li>
-          <li><a href='InstalledApps'>Installation</a></li>
+          <li>
+            <NavLink to="/"
+              className={({ isActive }) =>
+                isActive ? "text-[#632EE3] font-semibold underline underline-offset-4" : ""
+              }>
+              Home
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/AllAppList"
+              className={({ isActive }) =>
+                isActive ? "text-[#632EE3] font-semibold underline underline-offset-4" : ""
+              }>
+              Apps
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/InstalledApps"
+              className={({ isActive }) =>
+                isActive ? "text-[#632EE3] font-semibold underline underline-offset-4" : ""
+              }>
+              Installation
+            </NavLink>
+          </li>
         </ul>
       </div>
       <div className="navbar-end">

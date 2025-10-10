@@ -21,10 +21,15 @@ import AppError from "../../Components/Error/AppError";
 const AppDetails = () => {
 
   const apps = useContext(AppContext);
-  const { id } = useParams()
+  const { id } = useParams();
+
+  if (!apps || !Array.isArray(apps) || apps.length === 0) {
+    return <p className="text-center mt-10">Loading...</p>;
+  }
+
   const app = apps.find(a => a.id === parseInt(id));
-  if (!app) return <AppError></AppError>
-  
+
+  if (!app) return <AppError />;
   const [installedApps, setInstalledApps] = useState(() => {
     const saved = localStorage.getItem("installedApps");
     return saved ? JSON.parse(saved) : [];
@@ -41,6 +46,7 @@ const AppDetails = () => {
       setInstalledApps(newInstalledApps);
     }
   };
+
   useEffect(() => {
     localStorage.setItem("installedApps", JSON.stringify(installedApps));
   }, [installedApps]);

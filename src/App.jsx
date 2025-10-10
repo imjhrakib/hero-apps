@@ -16,11 +16,13 @@ function App() {
 
   return (
     <>
-      <Navbar></Navbar>
       <AppContext.Provider value={apps}>
+      <Navbar></Navbar>
+      
         <Root />
-      </AppContext.Provider>
+      
       <Footer></Footer>
+      </AppContext.Provider>
     </>
   )
 }
